@@ -1,6 +1,6 @@
 # Salesforce Summer Program - Day 1
 
-## 📌 What is CRM?
+##  What is CRM?
 
 CRM (Customer Relationship Management) is a system used by companies to manage customer data, sales, communication, and support.
 
@@ -13,7 +13,7 @@ CRM (Customer Relationship Management) is a system used by companies to manage c
 
 ---
 
-# ☁️ Why Companies Use Salesforce
+#  Why Companies Use Salesforce
 
 Salesforce is a cloud-based CRM platform used by organizations worldwide.
 
@@ -27,7 +27,7 @@ Salesforce is a cloud-based CRM platform used by organizations worldwide.
 
 ---
 
-# 🔄 Salesforce Business Workflow
+#  Salesforce Business Workflow
 
 ```text
 Lead → Contact → Opportunity → Customer
@@ -51,7 +51,7 @@ A successfully converted client.
 
 ---
 
-# 📚 Explain the Following
+#  Explain the Following
 
 ## Account
 
@@ -66,7 +66,7 @@ Represents a person associated with an account.
 Represents a sales deal or business opportunity.
 
 ---
-# 📸 Screenshots
+#  Screenshots
 
 ## Screenshot-1
 
