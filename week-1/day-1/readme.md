@@ -66,8 +66,9 @@ Represents a person associated with an account.
 Represents a sales deal or business opportunity.
 
 ---
-# screenshot-1
+# screenshots
+## screenshot-1
 <img width="1893" height="1035" alt="589467023-1d2cda1e-930d-4d43-bf49-a8503b76152b" src="https://github.com/user-attachments/assets/b71cbc36-f80b-4cd8-acc2-280529847028" />
-# screenshot-2
+## screenshot-2
 <img width="934" height="319" alt="589474068-9d5cc51d-60f4-466a-b3f4-d84e9cc18207" src="https://github.com/user-attachments/assets/99817833-3655-4233-a284-1cc4b74b1ec8" />
 
