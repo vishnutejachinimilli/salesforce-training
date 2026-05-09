@@ -8,7 +8,7 @@ Tabs
 What is an App?
 An App is a collection of objects and functionality used for a business process.
 
-Example:
+Example
 
 Sales App
 Service App
